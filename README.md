@@ -1,2 +1,4 @@
-# Prep-Course-Henry
-Este es un repositorio de prueba del Modulo 2 de Henry
+Lucas BLanco Nanclares
+
+Este proyecto es una prueba de como crear nuestro repositorio y clonarlo desde github hasta 
+mi computadora
